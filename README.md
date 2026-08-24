@@ -17,7 +17,7 @@ The Lecturer module allows a logged-in lecturer to:
 ## How to Run
 
 1. Open NetBeans
-2. Go to **File → Open Project** and select the `NewOOP` folder
+2. Go to **File → Open Project** and select the project folder
 3. Right-click the project and select **Clean and Build**
 4. Run the project — it will open the Login page
 5. Log in with a lecturer account to access the Lecturer module
